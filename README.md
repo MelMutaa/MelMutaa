@@ -40,7 +40,7 @@ Check out some of my recent projects:
 
 ## 🌍 Let's Connect!
 
-- **LinkedIn:** [Melissa Mutabazi](www.linkedin.com/in/melissa-m-6801121ab)
+- **LinkedIn:** [Melissa Mutabazi](https://www.linkedin.com/in/melissa-m-6801121ab)
 - **Email:** [melbmuta@outlook.com](mailto:melbmuta@outlook.com)
 
 If you want to talk tech, brainstorm ideas, or just chat about the latest in AI, I'm all ears! 🎧
