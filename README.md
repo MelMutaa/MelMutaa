@@ -23,7 +23,7 @@ I'm a passionate tech enthusiast with currently diving deep into the world of Co
 - **Frameworks:** React, ExpressJS, Node.js
 - **Tools:** Git, Docker, Tableau, Power BI, Canva, Figma 
 - **Cloud:** AWS Cloud Practioner
- - UX/UI Design (Certified by Google!)
+ - **UX/UI Design** (Certified by Google!)
 
 ## 🧠 My Philosophy
 
