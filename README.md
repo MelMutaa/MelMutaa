@@ -33,7 +33,7 @@ I believe in continuous learning and the power of curiosity. Whether it's debugg
 
 Check out some of my recent projects:
 
-- **[Dragon Repeller Game](#)**: Defeat the dragon that is preventing people from leaving the town.
+- **[Dragon Repeller Game](#https://github.com/MelMutaa/dragon-repeller-game)**: Defeat the dragon that is preventing people from leaving the town.
 - **[Calorie Counter](#)**: Calorie counter that validates the user input and performs calculations.
 - **[Todo App](#)**: A simple app to list all your todo items.
 
