@@ -35,7 +35,8 @@ Check out some of my recent projects:
 
 - **Dragon Repeller Game**: Defeat the dragon that is preventing people from leaving the town.
 - **Calorie Counter**: Calorie counter that validates the user input and performs calculations.
-- **Todo App**: A simple app to list all your todo items. 
+- **Todo App**: A simple app to list all your todo items.
+- **[Project Name 1](#)**: 
 
 ## 🌍 Let's Connect!
 
