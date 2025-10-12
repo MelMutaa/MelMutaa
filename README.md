@@ -4,18 +4,7 @@ Welcome to my GitHub Page! 🌟
 
 ## 🚀 About Me
 
-I'm a passionate tech enthusiast with currently diving deep into the world of Computer Science. My journey has taken me from the labs to the lines of code, and I'm loving every moment of it!
-
-- 🔭 I’m currently working on: 
-  - Personal web development projects
-  - Expanding my knowledge in front-end and back-end technologies
-  - Exploring the wonders of **Generative AI**
-  - System designs using Python
-  
-- 🌱 I’m currently learning:
-  - Secure Software Developement
-  - Power BI/ Tableau
-
+I'm a passionate tech enthusiast  currently diving deep into the world of Computer Science. My journey has taken me from the labs to the lines of code, and I'm loving every moment of it!
 
 ## 💻 Tech Stack
 
